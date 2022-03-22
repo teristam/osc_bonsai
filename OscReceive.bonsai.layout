@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisualizerLayout xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 >
+  <DialogSettings>
+    <Visible>false</Visible>
+    <Location>
+      <X>101</X>
+      <Y>99</Y>
+    </Location>
+    <Size>
+      <Width>335</Width>
+      <Height>62</Height>
+    </Size>
+    <WindowState>Normal</WindowState>
+    <VisualizerTypeName>Bonsai.Design.ObjectTextVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <ObjectTextVisualizer />
+    </VisualizerSettings>
+  </DialogSettings>
+  <DialogSettings>
+    <Visible>true</Visible>
+    <Location>
+      <X>1083</X>
+      <Y>734</Y>
+    </Location>
+    <Size>
+      <Width>797</Width>
+      <Height>276</Height>
+    </Size>
+    <WindowState>Normal</WindowState>
+    <VisualizerTypeName>Bonsai.Design.Visualizers.TimeSeriesVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <TimeSeriesVisualizer>
+        <Capacity>1000</Capacity>
+        <Min>-2.7862907297657178</Min>
+        <Max>2.5862907297657176</Max>
+        <AutoScale>false</AutoScale>
+      </TimeSeriesVisualizer>
+    </VisualizerSettings>
+  </DialogSettings>
+</VisualizerLayout>
