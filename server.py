@@ -14,7 +14,7 @@ import time
 # Create Open  sound control UDP server
 ip = "127.0.0.1"
 port = 1337
-client = SimpleUDPClient(ip, port)  # Create client
+client = SimpleUDPClient(ip, port)  
 
 print('Running OSC server')
 
